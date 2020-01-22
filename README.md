@@ -1,4 +1,4 @@
-# Concourse Tuts
+# Concourse Tutorials
 
 Learn to use https://concourse-ci.org with this linear sequence of tutorials. Learn each concept that builds on the previous concept.
 
