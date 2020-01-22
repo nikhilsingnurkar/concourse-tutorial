@@ -1,4 +1,4 @@
-# Concourse Tutorial
+# Concourse Tutorials
 
 Learn to use https://concourse-ci.org with this linear sequence of tutorials. Learn each concept that builds on the previous concept.
 
@@ -23,7 +23,7 @@ Read the tutorial at https://concoursetutorial.com
 This tutorial is built using [`mkdocs`](http://www.mkdocs.org/). Once installed, you can continuously build and serve the tutorial locally with:
 
 ```plain
-mkdocs serve
+mkdocs serve.
 ```
 
 View the site and live changes at https://localhost:8000.
